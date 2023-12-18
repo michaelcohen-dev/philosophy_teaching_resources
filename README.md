@@ -1,5 +1,5 @@
 # philosophy teaching resources
-## Michael Cohen, Philosophy Department, Tilburg University
+### Michael Cohen, Philosophy Department, Tilburg University
 
 This page contains a collection of Python Notebooks that are useful as teaching aids in philosophy classes. To use them, only a very minimal programming knowledge is required. 
 
@@ -7,7 +7,7 @@ At the moment, most of the notebooks listed below demonstrate topics and concept
 
 I list the different notebooks according to topic. 
 
-## **Critical and Scientific Thinking notebooks** ##
+### **Critical and Scientific Thinking notebooks** 
 
-## **Philosophy of AI Notebooks** ##
+### **Philosophy of AI Notebooks** 
 
