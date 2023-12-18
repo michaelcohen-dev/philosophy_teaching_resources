@@ -1,1 +1,1 @@
-# philosophy_teaching_Resources
+# philosophy teaching resources
