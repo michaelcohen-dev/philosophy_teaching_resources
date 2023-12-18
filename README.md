@@ -9,5 +9,8 @@ I list the different notebooks according to topic.
 
 ### **Critical and Scientific Thinking notebooks** 
 
-### **Philosophy of AI Notebooks** 
+### **Philosophy of AI Notebooks**
+
+* (Bias in the BERT large language model)[philosophy_teaching_resources
+/Large_Language_Models_and_bias.ipynb]
 
