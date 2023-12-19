@@ -3,7 +3,7 @@
 
 Launch in [Binder](https://mybinder.readthedocs.io) (Interactive jupyter notebook/lab environment in the cloud).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/weiji14/deepbedmap/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaelcohen-dev/philosophy_teaching_resources/master)
 
 
 This page contains a collection of Python Notebooks that are useful as teaching aids in philosophy classes. To use them, only a very minimal programming knowledge is required. 
