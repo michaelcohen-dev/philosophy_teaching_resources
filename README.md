@@ -1,6 +1,11 @@
 # philosophy teaching resources
 ### Michael Cohen, Philosophy Department, Tilburg University
 
+Launch in [Binder](https://mybinder.readthedocs.io) (Interactive jupyter notebook/lab environment in the cloud).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/weiji14/deepbedmap/master)
+
+
 This page contains a collection of Python Notebooks that are useful as teaching aids in philosophy classes. To use them, only a very minimal programming knowledge is required. 
 
 At the moment, most of the notebooks listed below demonstrate topics and concepts that are often covered in an introductory class to critical/Scientific/Bayesian thinking (e.g. simulating a base rate fallacy situation, the possibility of a replication crisis in published research via a toy model, some probability puzzles.)
